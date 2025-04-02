@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/hein/AzureAIShowcase/AzureAIShowcase.csproj": {}
+    "/workspaces/hein/face-quickstart/face-quickstart.csproj": {}
   },
   "projects": {
-    "/workspaces/hein/AzureAIShowcase/AzureAIShowcase.csproj": {
+    "/workspaces/hein/face-quickstart/face-quickstart.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/hein/AzureAIShowcase/AzureAIShowcase.csproj",
-        "projectName": "AzureAIShowcase",
-        "projectPath": "/workspaces/hein/AzureAIShowcase/AzureAIShowcase.csproj",
+        "projectUniqueName": "/workspaces/hein/face-quickstart/face-quickstart.csproj",
+        "projectName": "face-quickstart",
+        "projectPath": "/workspaces/hein/face-quickstart/face-quickstart.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/hein/AzureAIShowcase/obj/",
+        "outputPath": "/workspaces/hein/face-quickstart/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"
@@ -43,29 +43,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Azure.AI.TextAnalytics": {
-              "target": "Package",
-              "version": "[5.3.0, )"
-            },
-            "Azure.AI.Translation.Text": {
-              "target": "Package",
-              "version": "[1.0.0-beta.1, )"
-            },
             "Azure.AI.Vision.Face": {
               "target": "Package",
               "version": "[1.0.0-beta.2, )"
-            },
-            "Microsoft.Azure.CognitiveServices.Vision.ComputerVision": {
-              "target": "Package",
-              "version": "[7.0.1, )"
-            },
-            "Microsoft.Azure.CognitiveServices.Vision.Face": {
-              "target": "Package",
-              "version": "[2.8.0-preview.3, )"
-            },
-            "Microsoft.CognitiveServices.Speech": {
-              "target": "Package",
-              "version": "[1.32.1, )"
             }
           },
           "imports": [

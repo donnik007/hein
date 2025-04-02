@@ -112,3 +112,5 @@
 /workspaces/hein/AzureAIShowcase/obj/Debug/net8.0/AzureAIShowcase.pdb
 /workspaces/hein/AzureAIShowcase/obj/Debug/net8.0/AzureAIShowcase.genruntimeconfig.cache
 /workspaces/hein/AzureAIShowcase/obj/Debug/net8.0/ref/AzureAIShowcase.dll
+/workspaces/hein/AzureAIShowcase/bin/Debug/net8.0/Azure.AI.Vision.Face.dll
+/workspaces/hein/AzureAIShowcase/bin/Debug/net8.0/System.ClientModel.dll
